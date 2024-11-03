@@ -12,4 +12,7 @@ p{
 ul{
     list-style: circle;
     background-color: #0b5ed7;
+    color: azure;
 }
+
+div>p, div+p {color: red;}
