@@ -1,2 +1,2 @@
-# 20241013_GIKCK_Bootsrap
+# GIKCK24_Bootsrap
 sample project files
