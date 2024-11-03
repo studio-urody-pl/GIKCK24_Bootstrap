@@ -1,2 +1,2 @@
-# GIKCK24_Bootsrap
+# GIKCK24_Bootstrap
 sample project files
